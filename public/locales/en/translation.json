@@ -1,0 +1,12 @@
+{
+  "form": {
+    "rssUrlLabel": "RSS URL",
+    "rssUrlPlaceholder": "https://example.com/feed.xml",
+    "addButton": "Add RSS"
+  },
+  "errors": {
+    "required": "RSS URL is required",
+    "url": "Must be a valid URL",
+    "duplicate": "RSS feed already exists"
+  }
+}

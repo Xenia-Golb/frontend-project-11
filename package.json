@@ -9,12 +9,15 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@stylistic/eslint-plugin": "^5.6.1",
     "eslint": "^9.39.2",
+    "globals": "^16.5.0",
     "prettier": "^3.7.4",
     "vite": "^7.2.4"
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
+    "i18next": "^25.7.3",
     "yup": "^1.7.1"
   }
 }

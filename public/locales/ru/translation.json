@@ -1,0 +1,12 @@
+{
+  "form": {
+    "rssUrlLabel": "RSS URL",
+    "rssUrlPlaceholder": "https://example.com/feed.xml",
+    "addButton": "Добавить RSS"
+  },
+  "errors": {
+    "required": "RSS URL обязателен",
+    "url": "Должен быть корректный URL",
+    "duplicate": "Этот RSS-фид уже добавлен"
+  }
+}
